@@ -1,0 +1,56 @@
+[
+    {
+        "image":"images/doctor1.jpg",
+        "name":"Dr.Ramesh Sharma",
+        "info":"I am a 32 year old cardiologist. I have 3 years of experience in this field.",
+        "exp":"3",
+        "category":"Cardiologist",
+        "area":"Delhi"
+
+    },
+    {
+        "image":"images/doctor2.jpg",
+        "name":"Dr.Rakesh Agarwal",
+        "info":"I am a 29 year old General Physician. I have 1 years of experience in this field.",
+        "exp":"1",
+        "category":"General Physician",
+        "area":"Muradabad"
+
+    },
+    {
+        "image":"images/doctor3.jpg",
+        "name":"Dr.Sunil Gupta",
+        "info":"I am a 40 year old Dentist. I have 8 years of experience in this field.",
+        "exp":"8",
+        "category":"Dentist",
+        "area":"Ghaziabad"
+
+    },
+    {
+        "image":"images/doctor4.jpg",
+        "name":"Dr.Sanjay Oberoi",
+        "info":"I am a 35 year old Dentist. I have 5 years of experience in this field.",
+        "exp":"5",
+        "category":"Dentist",
+        "area":"Bareilly"
+
+    },
+    {
+        "image":"images/doctor5.jpg",
+        "name":"Dr.Mukesh Suri",
+        "info":"I am a 50 year old Surgeon. I have 8 years of experience in this field.",
+        "exp":"8",
+        "category":"Surgeon",
+        "area":"Hapur"
+
+    },
+    {
+        "image":"images/doctor6.jpg",
+        "name":"Dr.Hitesh Mathur",
+        "info":"I am a 45 year old General Physician. I have 9 years of experience in this field.",
+        "exp":"9",
+        "category":"General Physician",
+        "area":"Kanpur"
+
+    }
+]
